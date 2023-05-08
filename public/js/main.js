@@ -8,6 +8,7 @@ socket.on('message', message => {
 });
 
 //New Changes
+//New Changes 2
 
 chatForm.addEventListener('submit', (e)=>{
     e.preventDefault();
